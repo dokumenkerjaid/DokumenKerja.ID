@@ -1,0 +1,1 @@
+console.log('DokumenKerjaID website aktif');
